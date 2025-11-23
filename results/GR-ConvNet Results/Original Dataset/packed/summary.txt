@@ -1,0 +1,4 @@
+Stats for 5 objects out of 10 trials
+Manipulation success rate = 0.488 (41/84)
+Grasp success rate = 0.536 (45/84)
+Percentage of objects removed from the workspace = 0.82 (41/50)
